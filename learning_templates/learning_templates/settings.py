@@ -25,7 +25,7 @@ SECRET_KEY = 't93428!l-90%5ln+7(rv6*7qpknvrmvx@*h_9)+v=j53&w2c4c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://rlcayaco.pythonanywhere.com/']
+ALLOWED_HOSTS = ['rlcayaco.pythonanywhere.com']
 
 
 # Application definition
